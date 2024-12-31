@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/kapil-goswami" target="blank">
+  <a href="linkedin.com/in/kapil-goswami-5b0826302" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kapil goswami" height="30" width="40" />
   </a>
   <a href="https://fb.com/kapilgoswami" target="blank">
