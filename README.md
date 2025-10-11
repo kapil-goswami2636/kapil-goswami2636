@@ -52,7 +52,7 @@
 | 🔗 **URL Shortener** | Node.js, Express, EJS, MongoDB | [🔗 Live](https://url-shortner-project-y37k.onrender.com) | [📂 Repo](https://github.com/kapil-goswami2636/url-shortener) |
 | 🖼 **Image Uploader** | Node.js, Express, EJS, MongoDB, Cloudinary | [🔗 Live](https://image-uploader-iaay.onrender.com) | [📂 Repo](https://github.com/kapil-goswami2636/image-uploader) |
 
-> 💡 **Tips for recruiters:** Click the **Live Demo** to see the project in action or check the **GitHub Repo** for the code & documentation.
+> 💡 **Tips for recruiters:** Click the **Live Demo 🔗** to see the project in action or check the **GitHub Repo 📂** for the source code.
 
 ---
 
