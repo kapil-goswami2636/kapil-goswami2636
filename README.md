@@ -16,61 +16,30 @@
 
 ### 🔗 Connect with me:
 <p align="left">
-  <a href="http://linkedin.com/in/kapil-goswami-5b0826302" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/kapilgoswami" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/kapilgoswami2636" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://github.com/kapil-goswami2636" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
+  <a href="http://linkedin.com/in/kapil-goswami-5b0826302" target="_blank">LinkedIn</a> • 
+  <a href="https://fb.com/kapilgoswami" target="_blank">Facebook</a> • 
+  <a href="https://instagram.com/kapilgoswami2636" target="_blank">Instagram</a> • 
+  <a href="https://github.com/kapil-goswami2636" target="_blank">GitHub</a>
 </p>
 
 ---
 
 ### 🛠 Languages and Tools
 <p align="left">
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
 </p>
 
 ---
 
 ### 💼 My Projects
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Tech Stack</th>
-    <th>Live Demo</th>
-  </tr>
-  <tr>
-    <td>Portfolio Website</td>
-    <td>HTML, CSS, JS, Node.js, EJS</td>
-    <td><a href="https://portfolio-rouge-seven-27.vercel.app/" target="_blank">View Live</a></td>
-  </tr>
-  <tr>
-    <td>URL Shortener</td>
-    <td>Node.js, Express, EJS, MongoDB</td>
-    <td><a href="https://url-shortner-project-y37k.onrender.com" target="_blank">View Live</a></td>
-  </tr>
-</table>
+| Project | Tech Stack | Live Demo |
+|---------|-----------|-----------|
+| Portfolio Website | HTML, CSS, JS, Node.js, EJS | [View Live](https://portfolio-rouge-seven-27.vercel.app/) |
+| URL Shortener | Node.js, Express, EJS, MongoDB | [View Live](https://url-shortner-project-y37k.onrender.com) |
 
 ---
 
