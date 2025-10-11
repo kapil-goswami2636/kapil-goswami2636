@@ -46,13 +46,13 @@
 ---
 
 ### 💼 My Projects
-| 🚀 Project | 🛠 Tech Stack | 🌐 Live Demo | 📂 GitHub Repo |
-|------------|---------------|-------------|----------------|
-| 🌐 **Portfolio Website** | HTML, CSS, JS, Node.js, EJS | [🔗 Live](https://portfolio-rouge-seven-27.vercel.app/) | [📂 Repo](https://github.com/kapil-goswami2636/portfolio-website) |
-| 🔗 **URL Shortener** | Node.js, Express, EJS, MongoDB | [🔗 Live](https://url-shortner-project-y37k.onrender.com) | [📂 Repo](https://github.com/kapil-goswami2636/url-shortener) |
-| 🖼 **Image Uploader** | Node.js, Express, EJS, MongoDB, Cloudinary | [🔗 Live](https://image-uploader-iaay.onrender.com) | [📂 Repo](https://github.com/kapil-goswami2636/image-uploader) |
+| 🚀 Project | 🛠 Tech Stack | 🌐 Live Demo |
+|------------|---------------|-------------|
+| 🌐 **Portfolio Website** | HTML, CSS, JS, Node.js, EJS | [🔗 Live](https://portfolio-rouge-seven-27.vercel.app/) |
+| 🔗 **URL Shortener** | Node.js, Express, EJS, MongoDB | [🔗 Live](https://url-shortner-project-y37k.onrender.com) |
+| 🖼 **Image Uploader** | Node.js, Express, EJS, MongoDB, Cloudinary | [🔗 Live](https://image-uploader-iaay.onrender.com) |
 
-> 💡 **Tips for recruiters:** Click the **Live Demo 🔗** to see the project in action or check the **GitHub Repo 📂** for the source code.
+> 💡 **Tip:** Click the **Live Demo 🔗** to see the project in action.
 
 ---
 
