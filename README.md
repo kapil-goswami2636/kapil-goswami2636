@@ -50,6 +50,7 @@
 |---------|-----------|-----------|
 | 🌐 Portfolio Website | HTML, CSS, JS, Node.js, EJS | [View Live](https://portfolio-rouge-seven-27.vercel.app/) |
 | 🔗 URL Shortener | Node.js, Express, EJS, MongoDB | [View Live](https://url-shortner-project-y37k.onrender.com) |
+| 🖼 Image Uploader | Node.js, Express, EJS, MongoDB, Cloudinary | [View Live](https://image-uploader-iaay.onrender.com) |
 
 ---
 
