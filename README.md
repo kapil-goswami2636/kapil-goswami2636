@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kapil Goswami</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" />
 
@@ -7,45 +7,67 @@
   <img src="https://komarev.com/ghpvc/?username=kapil-goswami2636&label=Profile%20views&color=0e75b6&style=flat" alt="kapil-goswami2636" />
 </p>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Node.js, Express.js, React.js, MongoDB.**
-- 📫 How to reach me **Kapilgoswami9411@gmail.com**
+- 💬 Ask me about **HTML, CSS, JavaScript, Node.js, Express.js, React.js, MongoDB**  
+- 🌱 I’m currently learning **Next.js and advanced React**  
+- 📫 How to reach me: **[Kapilgoswami9411@gmail.com](mailto:Kapilgoswami9411@gmail.com)**  
+- ⚡ Fun fact: **I love building responsive web apps and experimenting with UI designs!**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🔗 Connect with me:
 <p align="left">
-  <a href="http://linkedin.com/in/kapil-goswami-5b0826302" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kapil goswami" height="30" width="40" />
+  <a href="http://linkedin.com/in/kapil-goswami-5b0826302" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://fb.com/kapilgoswami" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kapil goswami" height="30" width="40" />
+  <a href="https://fb.com/kapilgoswami" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/kapilgoswami2636" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kapilgoswami2636" height="30" width="40" />
+  <a href="https://instagram.com/kapilgoswami2636" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://github.com/kapil-goswami2636" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🛠 Languages and Tools
 <p align="left">
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
   </a>
 </p>
 
+---
+
+### 💼 My Projects
+| Project | Tech Stack | Live Demo |
+|---------|-----------|-----------|
+| **Portfolio Website** | HTML, CSS, JS, Node.js, EJS | [View Live]([https://your-portfolio-link.onrender.com](https://portfolio-rouge-seven-27.vercel.app/)) |
+| **URL Shortener** | Node.js, Express, EJS, MongoDB | [View Live]([https://url-shortener-nodejs-ejs.onrender.com](https://url-shortner-project-y37k.onrender.com)) |
+
+---
+
+### 📊 GitHub Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapil-goswami2636&show_icons=true&locale=en&layout=compact" alt="kapil-goswami2636" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapil-goswami2636&layout=compact&theme=radical" />
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kapil-goswami2636&show_icons=true&theme=radical" />
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kapil-goswami2636&show_icons=true&locale=en" alt="kapil-goswami2636" />
-</p>
+---
+
+> 🚀 I’m passionate about building clean, modern, and responsive web applications. Explore my projects and feel free to connect with me!
