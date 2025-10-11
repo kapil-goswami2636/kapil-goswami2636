@@ -54,10 +54,23 @@
 ---
 
 ### 💼 My Projects
-| Project | Tech Stack | Live Demo |
-|---------|-----------|-----------|
-| **Portfolio Website** | HTML, CSS, JS, Node.js, EJS | [View Live](https://portfolio-rouge-seven-27.vercel.app/) |
-| **URL Shortener** | Node.js, Express, EJS, MongoDB | [View Live](https://url-shortner-project-y37k.onrender.com) |
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Tech Stack</th>
+    <th>Live Demo</th>
+  </tr>
+  <tr>
+    <td>Portfolio Website</td>
+    <td>HTML, CSS, JS, Node.js, EJS</td>
+    <td><a href="https://portfolio-rouge-seven-27.vercel.app/" target="_blank">View Live</a></td>
+  </tr>
+  <tr>
+    <td>URL Shortener</td>
+    <td>Node.js, Express, EJS, MongoDB</td>
+    <td><a href="https://url-shortner-project-y37k.onrender.com" target="_blank">View Live</a></td>
+  </tr>
+</table>
 
 ---
 
