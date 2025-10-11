@@ -51,6 +51,7 @@
 | 🌐 **Portfolio Website** | HTML, CSS, JS, Node.js, EJS | [🔗 Live](https://portfolio-rouge-seven-27.vercel.app/) |
 | 🔗 **URL Shortener** | Node.js, Express, EJS, MongoDB | [🔗 Live](https://url-shortner-project-y37k.onrender.com) |
 | 🖼 **Image Uploader** | Node.js, Express, EJS, MongoDB, Cloudinary | [🔗 Live](https://image-uploader-iaay.onrender.com) |
+| 🔐 **Full Stack Auth + File Upload** | Node.js, Express, EJS, MongoDB, Cloudinary | [🔗 Live](https://full-stack-auth-file-upload.onrender.com) |
 
 > 💡 **Tip:** Click the **Live Demo 🔗** to see the project in action.
 
