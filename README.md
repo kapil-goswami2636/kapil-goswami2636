@@ -54,6 +54,7 @@
 | 🖼 **Image Uploader** | Node.js, Express, EJS, MongoDB, Cloudinary | [🔗 Live](https://image-uploader-iaay.onrender.com) |
 | 🔐 **Full Stack Auth + File Upload** | Node.js, Express, EJS, MongoDB, Cloudinary | [🔗 Live](https://full-stack-auth-file-upload.onrender.com) |
 | 📇 **Contact Management App** | Node.js, Express, EJS, MongoDB | [🔗 Live](https://contact-management-app-8wr9.onrender.com) |
+| 🛒 **E-COMMERCE_API** | Node.js, Express, MongoDB | [🔗 Live](https://e-commerce-api-3-sts1.onrender.com/) |
 
 > 💡 **Tip:** Click the **Live Demo 🔗** to see the project in action.
 
