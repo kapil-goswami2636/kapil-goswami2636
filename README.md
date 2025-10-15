@@ -19,7 +19,7 @@
   <a href="http://linkedin.com/in/kapil-goswami-5b0826302" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /> LinkedIn
   </a> &nbsp;&nbsp;
-  <a href="https://fb.com/kapilgoswami" target="_blank">
+  <a href="https://www.facebook.com/kapil.goswami.941908" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/facebook.svg" alt="Facebook" height="30" width="30" /> Facebook
   </a> &nbsp;&nbsp;
   <a href="https://instagram.com/kapilgoswami2636" target="_blank">
