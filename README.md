@@ -8,7 +8,7 @@
 </p>
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Node.js, Express.js, React.js, MongoDB**  
-- 🌱 I’m currently learning **Next.js, advanced React & Tailwind CSS**  
+- 🌱 I’m currently learning **Next.js and advanced React**  
 - 📫 How to reach me: [📧 Kapilgoswami9411@gmail.com](mailto:Kapilgoswami9411@gmail.com)  
 - ⚡ Fun fact: **I love building responsive web apps and experimenting with UI designs!**
 
@@ -35,27 +35,13 @@
 ### 🛠 Languages & Tools
 
 <p>
-  <span style="display:inline-block; background:#1e1e1e; padding:5px 10px; border-radius:8px; margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="25" height="25"/> HTML5
-  </span>
-  <span style="display:inline-block; background:#1e1e1e; padding:5px 10px; border-radius:8px; margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="25" height="25"/> CSS3
-  </span>
-  <span style="display:inline-block; background:#1e1e1e; padding:5px 10px; border-radius:8px; margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="25" height="25"/> JavaScript
-  </span>
-  <span style="display:inline-block; background:#1e1e1e; padding:5px 10px; border-radius:8px; margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node" width="25" height="25"/> Node.js
-  </span>
-  <span style="display:inline-block; background:#1e1e1e; padding:5px 10px; border-radius:8px; margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="25" height="25"/> Express
-  </span>
-  <span style="display:inline-block; background:#1e1e1e; padding:5px 10px; border-radius:8px; margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="25" height="25"/> MongoDB
-  </span>
-  <span style="display:inline-block; background:#1e1e1e; padding:5px 10px; border-radius:8px; margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="25" height="25"/> React
-  </span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/> HTML5 &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/> CSS3 &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/> JavaScript &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/> Node.js &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="30" height="30"/> Express &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/> MongoDB &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30"/> React
 </p>
 
 ---
@@ -68,6 +54,8 @@
 | 🖼 **Image Uploader** | Node.js, Express, EJS, MongoDB, Cloudinary | [🔗 Live](https://image-uploader-iaay.onrender.com) |
 | 🔐 **Full Stack Auth + File Upload** | Node.js, Express, EJS, MongoDB, Cloudinary | [🔗 Live](https://full-stack-auth-file-upload.onrender.com) |
 | 📇 **Contact Management App** | Node.js, Express, EJS, MongoDB | [🔗 Live](https://contact-management-app-8wr9.onrender.com) |
+
+> 💡 **Tip:** Click the **Live Demo 🔗** to see the project in action.
 
 ---
 
