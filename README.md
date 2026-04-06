@@ -8,7 +8,7 @@
 </p>
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Node.js, Express.js, React.js, MongoDB**  
-- 🌱 I’m currently learning **Next.js and advanced React**  
+- 🌱 I’m currently learning **Python and Machine Learing**  
 - 📫 How to reach me: [📧 Kapilgoswami9411@gmail.com](mailto:Kapilgoswami9411@gmail.com)  
 - ⚡ Fun fact: **I love building responsive web apps and experimenting with UI designs!**
 
