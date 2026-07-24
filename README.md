@@ -132,12 +132,24 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kapil-goswami2636&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapil-goswami2636&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kapil-goswami2636&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapil-goswami2636&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapil-goswami2636&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kapil-goswami2636&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/kapil-goswami2636/kapil-goswami2636/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
 </p>
 
 ---
